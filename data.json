@@ -11,6 +11,7 @@
             "location":"Paris",
             "arrivalDate":"2025-07-01",
             "departureDate":"2025-07-31",
+            "transportation": "bike",
             "activities":[
                 {
                     "title":"biking",
@@ -27,6 +28,7 @@
             "location":"London",
             "arrivalDate":"2025-08-01",
             "departureDate":"2025-08-31",
+            "transportation": "plane",
             "activities":[
                 {
                     "title":"nightlife",
@@ -35,6 +37,23 @@
                 },
                 {
                     "title":"sight-seeing",
+                    "time":"11:00 AM"
+                }
+                ]
+        },
+        {
+                "location":"Mexico",
+            "arrivalDate":"2025-01-01",
+            "departureDate":"2025-01-31",
+            "transportation": "bus",
+            "activities":[
+                {
+                    "title":"swimming",
+                    "time":"6:00 AM"
+
+                },
+                {
+                    "title":"dancing",
                     "time":"11:00 AM"
                 }
                 ]
