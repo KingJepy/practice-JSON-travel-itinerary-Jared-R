@@ -1,0 +1,44 @@
+{
+    "tripName": "Europe 2025",
+    "traveler":{
+            "name":"Jared",
+            "email":"jared@gmail.com",
+            "phone":1234567890
+
+    },
+    "destinations":[
+        {
+            "location":"Paris",
+            "arrivalDate":"2025-07-01",
+            "departureDate":"2025-07-31",
+            "activities":[
+                {
+                    "title":"biking",
+                    "time":"10:00 AM"
+
+                },
+                {
+                    "title":"painting",
+                    "time":"4:00 PM"
+                }
+                ]
+        },
+        {
+            "location":"London",
+            "arrivalDate":"2025-08-01",
+            "departureDate":"2025-08-31",
+            "activities":[
+                {
+                    "title":"nightlife",
+                    "time":"10:00 PM"
+
+                },
+                {
+                    "title":"sight-seeing",
+                    "time":"11:00 AM"
+                }
+                ]
+        }
+    ]
+
+}
